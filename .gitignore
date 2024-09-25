@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test / coverage reports
+coverage.*
+.tox/
+.pytest_cache/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Virtual environment
+*.env
+
+# Large files
+*.zip
+*.tar
+*.gz
+
+# Python tool files
+.mypy_cache/
+*.pyo
+*.pyd
+
+# Ignore backup files
+*.bak
+*.tmp
+
+# Other unnecessary files
+*.iml
+*.lock
